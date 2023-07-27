@@ -2,5 +2,5 @@
 
 module ZipkinTracer
   # Replaced with real version during CI as a part of /build-bin/gem/gem_push
-  VERSION = '0.3.0'
+  VERSION = '0.48.0'
 end
